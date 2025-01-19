@@ -1,0 +1,63 @@
+.yellow-box{
+    background-color: yellow;
+    border: 2px dashed red;
+    border-radius: 10px;
+}
+
+.p1{
+    border: 2px dashed green;
+}
+
+.pink{
+    background-color: pink;
+    border: 2px dashed blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.deer{
+  border: 4px solid blue;  
+}
+
+.deers{
+    border: 4px solid blue;
+}
+
+.h5{
+    background-color: red;
+    border-radius: 0px solid black;
+
+}
+
+
+.purple{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid bisque;
+    background-color: purple;
+    gap: 5px ;
+}
+
+
+.pin{
+    border: 6px solid blue;
+}
+
+.zebra{
+    border: 6px solid blue;
+}
+
+.count{
+    background-color: green;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+.one{
+    color: red;
+}
